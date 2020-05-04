@@ -1,3 +1,9 @@
+commit 4e277d2386546eed434ab333a287038ca25ada7f
+Author: KharatPrachi72 <kharatprachi72@gmail.com>
+Date:   Sun May 3 17:20:08 2020 -0700
+
+    EDA and outlier detection
+
 commit 1fa0154524b998949f691e11d950268afa4ccd84
 Author: KharatPrachi72 <kharatprachi72@gmail.com>
 Date:   Sun May 3 12:30:22 2020 -0700
