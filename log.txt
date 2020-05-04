@@ -1,3 +1,9 @@
+commit c83fea005099909f360ea940236c1b30a777633e
+Author: KharatPrachi72 <kharatprachi72@gmail.com>
+Date:   Sun May 3 18:01:34 2020 -0700
+
+    split data and create model
+
 commit 4e277d2386546eed434ab333a287038ca25ada7f
 Author: KharatPrachi72 <kharatprachi72@gmail.com>
 Date:   Sun May 3 17:20:08 2020 -0700
