@@ -1,3 +1,9 @@
+commit 1fa0154524b998949f691e11d950268afa4ccd84
+Author: KharatPrachi72 <kharatprachi72@gmail.com>
+Date:   Sun May 3 12:30:22 2020 -0700
+
+    In new notebook loaded data and libraries
+
 commit d09e03c1f943ab6d1574c8cb1a53af231560c7ff
 Author: KharatPrachi72 <kharatprachi72@gmail.com>
 Date:   Sun May 3 11:54:32 2020 -0700
